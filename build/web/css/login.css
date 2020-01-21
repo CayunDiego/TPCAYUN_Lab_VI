@@ -1,0 +1,73 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+
+.card{
+position: relative;
+height: 400px;
+width: 400px;
+border-radius: 10px;
+top: 15%;
+margin: 0 auto;
+text-align: center;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+
+.formulario{
+position: relative;
+height: 100px;
+width: 300px;
+margin: 0 auto;
+text-align: center;
+}
+
+.card-header h3{
+padding: 2em;
+color: white;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color:  rgb(209, 34, 34);
+color: black;
+border:0 !important;
+
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black;
+background-color:  rgb(209, 34, 34);
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+
+
+#login{
+    text-align: center;
+    margin: 0 auto;
+}

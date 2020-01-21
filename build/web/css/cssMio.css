@@ -1,0 +1,77 @@
+
+
+.principal{
+    background: rgba(255, 255, 255, 0.11);
+    width: 1170px;
+    height: 600px;
+    margin-left: 12%;
+    position: absolute;
+
+}
+
+
+
+
+.secundario{
+    background: rgba(0, 0, 0, 0.308);
+    width: 935px;
+    height: 450px;
+    margin: 0 auto;
+    top: 4px;
+    position: relative;
+}
+
+.secundarioCliente{
+    background: rgba(0, 0, 0, 0.308);
+    width: 935px;
+    height: 580px;
+    margin: 0 auto;
+    top: 4px;
+    position: relative;
+}
+
+
+.tablaScroll{
+    height: 800px;
+}
+
+
+
+
+
+
+    .tamañoMenu{
+        height: 5px;
+        width:61%;
+    }
+
+    .indx{
+        text-align: center;
+        margin: 0 auto;
+        position: relative;
+        top: 140px;
+    }
+
+    .tarjetaLogueo{
+        margin-top: 100px;
+    }
+
+    .my-custom-scrollbar {
+        position: relative;
+        height: 400px;
+        overflow: auto;
+        }
+        .table-wrapper-scroll-y {
+        display: block;
+        }
+
+        .my-custom-scrollbar2{
+            position: relative;
+            height: 590px;
+            overflow: auto;
+
+        }
+
+        h1{
+            color: white;
+        }
