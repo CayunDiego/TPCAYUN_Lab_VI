@@ -43,3 +43,22 @@ particular.
   * Seleccionar un rubro y mostrar el listado de artículos, incluyendo por cada
 uno cantidad de veces que fue vendido, cantidad total de unidades vendidas
 y cantidad de clientes a los que fue vendido.
+
+
+## Built With
+
+* [Java](https://www.java.com/es/download/)
+* [Glassfish](https://www.oracle.com/middleware/technologies/glassfish-server.html) 
+* SQL Server
+
+## Authors
+
+* [**Diego Saúl Cayún García**](https://www.linkedin.com/in/diego-saul-cayun-garcia/) 
+
+---
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © [**Diego Saúl Cayún García**](https://www.linkedin.com/in/diego-saul-cayun-garcia/) 
